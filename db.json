@@ -1,6 +1,17 @@
 {
-    "cdz":{
-        "signos":["Escorpião", "Capricornio", "Aquario", "Peixes"],
-        "metais":["ouro", "prata", "bronze", "ferro", "alumínio"]
-    }
+   "cdz":{
+      "signos":[
+         "Escorpião",
+         "Capricornio",
+         "Aquario",
+         "Peixes"
+      ],
+      "metais":[
+         "ouro",
+         "prata",
+         "bronze",
+         "ferro",
+         "alumínio"
+      ]
+   }
 }
